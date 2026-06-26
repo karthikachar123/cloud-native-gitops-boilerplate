@@ -1,5 +1,5 @@
-enabled: true
+enabled: false
 region: us-east-1
 database:
   deletionProtection: false
-forceDestroy: true  
+forceDestroy: true
